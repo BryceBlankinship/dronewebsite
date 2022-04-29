@@ -1,0 +1,17 @@
+@import url(//db.onlinewebfonts.com/c/00d5a78493aed4b11e2584ad7cceee49?family=Gilroy);
+
+.heroContainer {
+    font-family: 'Gilroy';
+    font-size: 50px;
+    color: white;
+    text-shadow: 2px 2px 5px black;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 90vh;
+}
+
+.heroHeader {
+
+}
